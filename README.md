@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm [Jeffrey James]</h1>
+<h1 align="center">Hi 👋, I'm Jeffrey James Oloo </h1>
 <h3 align="center">🚀 Mechanical Engineering Student | ALX Backend Developer | Robotics & AI Enthusiast</h3>
 
 ---
